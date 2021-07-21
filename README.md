@@ -1,1 +1,1 @@
-# c36-sarang
+# C36-teacher-reference
